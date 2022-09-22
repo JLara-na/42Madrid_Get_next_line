@@ -6,11 +6,10 @@
 /*   By: jlara-na <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/13 14:32:58 by jlara-na          #+#    #+#             */
-/*   Updated: 2022/09/13 14:33:05 by jlara-na         ###   ########.fr       */
+/*   Updated: 2022/09/22 12:48:16 by jlara-na         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
 #include "get_next_line_bonus.h"
 
 int	ft_strlen(char *str)
